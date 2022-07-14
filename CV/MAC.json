@@ -1,0 +1,62 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Víctor",
+      "surnames": "Sisón checa",
+      "title": "Técnico Superior Desarrollo Aplicaciones Web",
+      "description": "Soy un recién graduado como Técnico Superior de Desarrollo de Aplicaciones Web en el I.E.S. El Caminàs de Castellón. Aunque no tengo experiencia en empresa, más allá de las 400 horas de prácticas que he realizado en el ciclo, cuento con una alta capacidad de aprendizaje y mucha motivación. \nMi meta es convertirme en un futuro profesional lo más completo posible, con habilidades más allá de la aplicación práctica de los conocimientos que se adquieren en el ciclo. Es por ello que sigo formándome por mi cuenta con cursos relacionados con el desarrollo web que me ayuden a crecer profesionalmente, ya que siento una gran pasión por este sector.\nSi quieren conocer más de mí o necesitan más información, no duden en preguntarme. \nAbierto a afrontar nuevos desafíos laborales.\n",
+      "location": {
+        "notes": "Vinaròs"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victor-sison-checa-80-web-developer/"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/victor-sison-checa-80-web-developer/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Scss",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
