@@ -107,6 +107,48 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo Grado Superior Desarrollo de Aplicaciones web",
+        "startDate": "2019-09-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Ies el Caminàs"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MariaDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
