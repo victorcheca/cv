@@ -133,7 +133,8 @@
         "startDate": "2019-09-01",
         "finishDate": "2022-06-01",
         "institution": {
-          "name": "Ies el Caminàs"
+          "name": "Ies el Caminàs",
+          "URL": "https://www.ieselcaminas.org"
         },
         "linkedCompetences": [
           {
