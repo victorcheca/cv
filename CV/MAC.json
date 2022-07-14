@@ -110,6 +110,23 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Administración avanzada de WordPress",
+        "startDate": "2022-07-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "Bilib",
+          "URL": "https://formados.bilib.es"
+        },
+        "linkedCompetences": [
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ciclo Formativo Grado Superior Desarrollo de Aplicaciones web",
