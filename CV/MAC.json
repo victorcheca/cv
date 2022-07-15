@@ -136,6 +136,12 @@
       },
       {
         "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AJAX",
           "type": "technology"
         }
