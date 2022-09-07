@@ -7,7 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Víctor",
-      "surnames": "Sisón checa",
+      "surnames": "Sisón Checa",
       "title": "Técnico Superior Desarrollo Aplicaciones Web",
       "description": "Soy un recién graduado como Técnico Superior de Desarrollo de Aplicaciones Web en el I.E.S. El Caminàs de Castellón. Aunque no tengo experiencia en empresa, más allá de las 400 horas de prácticas que he realizado en el ciclo, cuento con una alta capacidad de aprendizaje y mucha motivación. \nMi meta es convertirme en un futuro profesional lo más completo posible, con habilidades más allá de la aplicación práctica de los conocimientos que se adquieren en el ciclo. Es por ello que sigo formándome por mi cuenta con cursos relacionados con el desarrollo web que me ayuden a crecer profesionalmente, ya que siento una gran pasión por este sector.\nSi quieren conocer más de mí o necesitan más información, no duden en preguntarme. \nAbierto a afrontar nuevos desafíos laborales.\n",
       "avatar": {
@@ -82,7 +82,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AJAX",
           "type": "technology"
         }
       },
@@ -94,13 +106,37 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -118,43 +154,7 @@
       },
       {
         "skill": {
-          "name": "Figma",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPMyAdmin",
           "type": "technology"
         }
       }
