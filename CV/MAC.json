@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,11 +11,14 @@
       "title": "Técnico Superior Desarrollo Aplicaciones Web",
       "description": "Soy un recién graduado como Técnico Superior en Desarrollo de Aplicaciones Web en el I.E.S. El Caminàs de Castellón. Aunque no tengo experiencia en empresa, más allá de las 400 horas de prácticas que he realizado en el ciclo, cuento con una alta capacidad de aprendizaje y mucha motivación. \nMi meta es convertirme en un futuro profesional lo más completo posible, con habilidades más allá de la aplicación práctica de los conocimientos que se adquieren en el ciclo. Es por ello que sigo formándome por mi cuenta con cursos relacionados con el desarrollo web que me ayuden a crecer profesionalmente, ya que siento una gran pasión por este sector.\nSi quieren conocer más de mí o necesitan más información, no duden en preguntarme. \nAbierto a afrontar nuevos desafíos laborales.\n",
       "avatar": {
-        "alt": "carnet color.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/25cb6960-643f-46d0-b836-c4c669396a6e_carnet-color.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/14/25cb6960-643f-46d0-b836-c4c669396a6e_carnet-color.jpg",
+        "alt": "carnet color.jpg"
       },
       "location": {
-        "notes": "Vinaròs"
+        "notes": "Autocompleted using Google Maps API (id: ChIJde12AORPoBIRKhpMsQKTIBE)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Vinaròs"
       }
     },
     "relevantLinks": [
@@ -38,7 +41,6 @@
           {
             "name": "Developer",
             "startDate": "2022-06-01",
-            "finishDate": "2022-06-01",
             "competences": [
               {
                 "name": "Google Analytics",
@@ -64,7 +66,8 @@
                 "name": "WordPress",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-06-01"
           }
         ]
       }
@@ -73,25 +76,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "AJAX",
@@ -100,7 +95,37 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -118,19 +143,13 @@
       },
       {
         "skill": {
-          "name": "WordPress",
+          "name": "Sass",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Figma",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
+          "name": "Scss",
           "type": "technology"
         }
       },
@@ -142,19 +161,7 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
+          "name": "WordPress",
           "type": "technology"
         }
       }
@@ -165,31 +172,14 @@
         "degreeAchieved": true,
         "name": "Administración avanzada de WordPress",
         "startDate": "2022-07-01",
-        "finishDate": "2022-07-01",
         "institution": {
           "name": "Bilib - Centro de Desarrollo de Competencias Digitales de Castilla La Mancha",
           "URL": "https://formados.bilib.es"
         },
+        "finishDate": "2022-07-01",
         "linkedCompetences": [
           {
             "name": "WordPress",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Figma",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Openwebinars",
-          "URL": "https://openwebinars.net/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Figma",
             "type": "technology"
           }
         ]
@@ -199,11 +189,11 @@
         "degreeAchieved": true,
         "name": "Ciclo Formativo Grado Superior Desarrollo de Aplicaciones web",
         "startDate": "2019-09-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "Ies el Caminàs",
           "URL": "https://www.ieselcaminas.org"
         },
+        "finishDate": "2022-06-01",
         "linkedCompetences": [
           {
             "name": "AJAX",
@@ -234,6 +224,43 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Figma",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Openwebinars",
+          "URL": "https://openwebinars.net/"
+        },
+        "finishDate": "2022-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tolerancia a la incertidumbre",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -241,8 +268,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/victor-sison-checa-80-web-developer/"
+          "URL": "https://www.linkedin.com/in/victor-sison-checa-80-web-developer/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "victorsisoncheca@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692928044",
+          "countryCode": "+34"
         }
       ]
     },
@@ -272,7 +308,21 @@
           "name": "WordPress",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría una oportunidad para poner en práctica mis conocimientos adquiridos en el cliclo superior de DAW y seguir aprendiendo para convertirme en un profesional del sector.",
+    "projects": [
+      {
+        "name": "Página corporativa Vallicorb"
+      }
+    ]
   }
 }
